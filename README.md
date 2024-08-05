@@ -1,2 +1,14 @@
 # Echoes_of_the_Past
- This project is a learning exercise focused on developing core game mechanics and systems. It serves as a foundation for exploring game development concepts and techniques.  Key Features:  Puzzle System: Incorporates keypad and pressure plate puzzles to challenge players. Inventory Management: Basic inventory system for key items and notes. Player Interaction: Includes player character movement, headbob, and object interaction mechanics. UI: Basic UI elements for inventory, notifications, and puzzle input. Built with Unreal Engine 5.
+**Project Overview**
+This project is a learning exercise to experiment with game development fundamentals. It includes puzzle mechanics (keypad, pressure plates), basic inventory, player interactions, and UI elements. The primary goal is to learn and iterate on game development concepts.
+
+**Project Structure**
+Content: Contains game assets (meshes, textures, materials, etc.)
+Blueprints: Contains blueprint classes for gameplay logic and UI
+Maps: Contains level designs
+
+**Dependencies**
+Unreal Engine 5
+
+**Known Issues**
+No known issues at this time.

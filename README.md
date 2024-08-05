@@ -7,6 +7,10 @@ This project is a learning exercise to experiment with game development fundamen
 - Unreal Engine 5
 - UI Navigation 3.0 plugin
 
+**Project Status**
+
+- Under development
+
 **Known Issues**
 
 No known issues at this time.

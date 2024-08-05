@@ -4,8 +4,12 @@ This project is a learning exercise to experiment with game development fundamen
 
 **Dependencies**
 
-- Unreal Engine 5
+- Unreal Engine 5.4
 - UI Navigation 3.0 plugin
+
+**Project Status**
+
+- Under development
 
 **Known Issues**
 

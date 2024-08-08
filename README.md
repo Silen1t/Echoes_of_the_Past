@@ -4,7 +4,7 @@ This project is a learning exercise to experiment with game development fundamen
 
 **Project Status**
 
-- Under development
+- Terminated
 
 **Known Issues**
 
